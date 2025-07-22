@@ -1,7 +1,0 @@
-<<<<<<< HEAD
- this is line from main branch
-=======
- this is from sourabh branch
->>>>>>> sourabh
-This is resolved line after merge conflict.
-
